@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/flowers-ray-repo/static/css/main.073c9b0a.css",
-    "main.js": "/flowers-ray-repo/static/js/main.3147da90.js",
+    "main.css": "/flowers-ray-repo/static/css/main.8103d9e3.css",
+    "main.js": "/flowers-ray-repo/static/js/main.db534ffa.js",
+    "static/media/body.jpg": "/flowers-ray-repo/static/media/body.81418530ff494764df28.jpg",
     "index.html": "/flowers-ray-repo/index.html",
-    "main.073c9b0a.css.map": "/flowers-ray-repo/static/css/main.073c9b0a.css.map",
-    "main.3147da90.js.map": "/flowers-ray-repo/static/js/main.3147da90.js.map"
+    "main.8103d9e3.css.map": "/flowers-ray-repo/static/css/main.8103d9e3.css.map",
+    "main.db534ffa.js.map": "/flowers-ray-repo/static/js/main.db534ffa.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3147da90.js"
+    "static/css/main.8103d9e3.css",
+    "static/js/main.db534ffa.js"
   ]
 }
