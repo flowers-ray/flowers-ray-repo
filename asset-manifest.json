@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flowers-ray-repo/static/css/main.073c9b0a.css",
+    "main.js": "/flowers-ray-repo/static/js/main.3147da90.js",
+    "index.html": "/flowers-ray-repo/index.html",
+    "main.073c9b0a.css.map": "/flowers-ray-repo/static/css/main.073c9b0a.css.map",
+    "main.3147da90.js.map": "/flowers-ray-repo/static/js/main.3147da90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3147da90.js"
+  ]
+}
